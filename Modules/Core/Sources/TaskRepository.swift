@@ -10,7 +10,7 @@ public class TaskRepository: ObservableObject {
         tasks = [
             Task(title: "Изучить Tuist", isCompleted: false),
             Task(title: "Создать модульное приложение", isCompleted: false),
-            Task(title: "Понять модульность", isCompleted: true)
+            Task(title: "Понять и принять модульность", isCompleted: true)
         ]
     }
     
